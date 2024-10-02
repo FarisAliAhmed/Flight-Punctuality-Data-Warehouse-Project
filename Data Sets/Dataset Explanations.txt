@@ -1,0 +1,24 @@
+reporting_period - The year and month of the flight
+reporting_airport - The airport the flight is from
+origin_destination_country - The country the flight is going to
+origin_destination - The location the flight is going to in the country
+airline_name - The airline 
+scheduled_charter - If the flight is scheduled or a charter flight (C OR S)
+number_flights_matched - The amount of flights on this route
+actual_flights_unmatched - The amount of flights scheduled on the route to operate that did not, maybe due to cancellations.
+number_flights_cancelled - The amount of cancelled flights
+flights_more_than_15_minutes_early_percent
+flights_15_minutes_early_to_1_minute_early_percent
+flights_0_to_15_minutes_late_percent
+flights_between_16_and_30_minutes_late_percent
+flights_between_31_and_60_minutes_late_percent
+flights_between_61_and_120_minutes_late_percent
+flights_between_121_and_180_minutes_late_percent
+flights_between_181_and_360_minutes_late_percent
+flights_more_than_360_minutes_late_percent
+flights_unmatched_percent - The percentage of flights unmatched
+flights_cancelled_percent - The percentage of flights cancelled
+average_delay_mins - The average delay  time in minutes
+previous_year_month_flights_matched - Previous year flight matched for comparison
+previous_year_month_early_to_15_mins_late_percent
+previous_year_month_average_delay

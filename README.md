@@ -1,0 +1,2 @@
+# Flight-Punctuality-Data-Warehouse-Project
+ This project involves developing a data warehouse for flight punctuality by designing a star schema model using StarUML. The star schema was implemented in a data warehouse using Oracle Apex, where Excel CSV files were imported to populate the database. The CSV sheets were combined into a single dataset, which was then imported into Tableau to create visualizations, demonstrating expertise in data integration, database design, and data visualization.
